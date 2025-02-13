@@ -1,3 +1,9 @@
+•	DATA INSIGHTS is a comprehensive solution aimed at addressing the high dropout rates in schools, with a particular focus on mitigating the impact of poverty and various socio-economic factors.
+•	The project provides a strategic framework for governments to formulate targeted policies by analyzing dropout data across different categories
+•	Technologies Used: React-Js, Django, SQLite, Machine Learning.
+
+
+
 ![image](https://github.com/user-attachments/assets/f94fddd2-77b3-42a8-bbe3-6af6eda25c64)
 
 ![image](https://github.com/user-attachments/assets/4d1a7f25-d5ee-4ed0-a6bf-36baa55fc526)
